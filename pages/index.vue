@@ -6,7 +6,7 @@
 </head>
 <body>
   ...
-  <div id="waline"></div>
+  <div id="waline">你们好</div>
   <script>
     Waline({
       el: '#waline',
