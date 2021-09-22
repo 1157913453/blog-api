@@ -8,6 +8,7 @@
   ...
   <div id="waline">你们好</div>
   <script>
+  testtest
     Waline({
       el: '#waline',
       serverURL: 'https://blog-api-fpradoytl-1157913453.vercel.app',
