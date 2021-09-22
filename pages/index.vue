@@ -10,7 +10,7 @@
   <script>
     Waline({
       el: '#waline',
-      https://blog-api-fpradoytl-1157913453.vercel.app/: 'https://your-domain.vercel.app',
+      serverURL: 'https://blog-api-fpradoytl-1157913453.vercel.app/',
     });
   </script>
 </body>
